@@ -9,7 +9,7 @@ ul {
 
 main {
     display: grid;
-    grid-column: ;
+    grid-column: 1/3;
 }
 
 ul li {
