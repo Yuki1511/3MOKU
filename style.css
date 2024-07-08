@@ -1,0 +1,17 @@
+body {
+    max-width: 900px;
+    background-color: aquamarine;
+}
+
+ul {
+    list-style-type: none;
+}
+
+main {
+    display: grid;
+    grid-column: ;
+}
+
+ul li {
+    border: .5px solid #666;
+}
